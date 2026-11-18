@@ -29,7 +29,6 @@ Estudio independiente de ingeniería digital &nbsp;·&nbsp; Software · Sistemas
 <!-- INTRO RÁPIDA -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
-yaml
 nombre: "Elvis Manuel Domínguez Silverio"
 rol: "Software Engineer · Full-Stack · Systems & SaaS"
 estudio: "OFICIO CERO, S.R.L. (en constitución)"
