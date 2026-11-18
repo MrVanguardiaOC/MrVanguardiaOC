@@ -77,10 +77,10 @@ Reconocimientos: GitHub Developer Program · Google Play Academy Ignite · Ciber
 <tr>
 <td valign="top" width="33%" align="left">
 <strong>Dominio · e-CF</strong><br/>
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
+<img src="https://img.shields.io/badge/DGII_eCF-E31_E47-1A2620?style=flat-square&logo=airtable&logoColor=DBFA75" />
+<img src="https://img.shields.io/badge/RSA_SHA256-firma_digital-1A2620?style=flat-square&logo=openssl&logoColor=EE6A42" />
+<img src="https://img.shields.io/badge/Reportes-606_607_608_609-1A2620?style=flat-square&logo=googlesheets&logoColor=DBFA75" />
+<img src="https://img.shields.io/badge/POS-ERP_CRM-1A2620?style=flat-square&logo=shopify&logoColor=EE6A42" />
 </td>
 <td valign="top" width="33%" align="left">
 <strong>Android · Mobile</strong><br/>
@@ -93,8 +93,8 @@ Reconocimientos: GitHub Developer Program · Google Play Academy Ignite · Ciber
 <strong>Investigación</strong><br/>
 <img src="https://img.shields.io/badge/GNOME_Shell-1A2620?style=flat-square&logo=gnome&logoColor=white" />
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/CAN_Bus-K--Bus-1A2620?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=DBFA75" />
-<img src="https://img.shields.io/badge/llama.cpp-00D4AA?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white" />
+<img src="https://img.shields.io/badge/CAN_Bus-K--Bus-1A2620?style=flat-square&logo=tesla&logoColor=DBFA75" />
+<img src="https://img.shields.io/badge/llama.cpp-00D4AA?style=flat-square&logo=huggingface&logoColor=black" />
 </td>
 </tr>
 </table>
@@ -182,7 +182,7 @@ viento. Inspirado en BSL shaders.
 <p align="left">
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/GLSL-5586A4?style=flat-square&logo=opengl&logoColor=white" />
-<img src="https://img.shields.io/badge/Horizon_Rust-1A2620?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=DBFA75" />
+<img src="https://img.shields.io/badge/Horizon_Rust-1A2620?style=flat-square&logo=rust&logoColor=DBFA75" />
 </p>
 <p align="left"><sub><i>Bonito sin consumir media PC.</i></sub></p>
 </td>
@@ -220,8 +220,8 @@ Qwen3.5-2B vía llama.cpp, voz sintética, character sheet anime y
 desarrollo modular con Claude Code. Investigación activa.
 </p>
 <p align="left">
-<img src="https://img.shields.io/badge/llama.cpp-00D4AA?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white" />
-<img src="https://img.shields.io/badge/Qwen3.5--2B-1A2620?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=DBFA75" />
+<img src="https://img.shields.io/badge/llama.cpp-00D4AA?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Qwen3.5--2B-1A2620?style=flat-square&logo=alibabacloud&logoColor=DBFA75" />
 <img src="https://img.shields.io/badge/Fedora-294172?style=flat-square&logo=fedora&logoColor=white" />
 </p>
 <p align="left"><sub><i>Unidad Cognitiva 01. Estado: despierta.</i></sub></p>
@@ -238,20 +238,22 @@ desarrollo modular con Claude Code. Investigación activa.
 04 / Ahora
 text
 ┌───────┬──────────────────────────────────────────────────────────────────┐
-│  NOW  │  Llevando a OFICIO CERO al gaming (intros y juegos con ident OC) │
+│  NOW  │  Llevando a OFICIO CERO al gaming (intros y juegos con ident OC)   │
 │       │  Preparando Garage Zero para prueba abierta en Google Play       │
 │       │  Mejorando ClickFiscal en privado (motor e-CF)                   │
-│       │  Retomando ALICE Velmoria con Claude Code                        │
-│       │  Esperando reinstauración de cuenta GitHub @MrVanguardiaOC       │
+│       │  Retomando ALICE Velmoria con Claude Code                       │
+│       │  Cuenta anterior @MrVanguardia suspendida; ahora @MrVanguardiaOC  │
 └───────┴──────────────────────────────────────────────────────────────────┘
 <br/>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
 <!-- STATS -->
-<!-- Cambia MrVanguardia por tu usuario reaL -->
+<!-- Cambia MrVanguardiaOC por tu usuario real cuando recuperes la -->
+<!-- cuenta (o por el usuario nuevo si GitHub te da otro). -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 05 / GitHub
+Nota: mi cuenta anterior @MrVanguardia fue suspendida en nov 2026; solicité reinstauración a GitHub Support y sigo publicando bajo @MrVanguardiaOC. Los enlaces de los widgets apuntan al usuario activo.
 
 <div align="center">
 <a href="https://github.com/MrVanguardiaOC">
@@ -365,7 +367,7 @@ arquitectura, auditoría y seguridad · hosting y mantenimiento.
 <br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=MrVanguardia&style=flat-square&color=19221D&label=visitas" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=MrVanguardiaOC&style=flat-square&color=19221D&label=visitas" alt="Profile views" />
 &nbsp;
 <img src="https://img.shields.io/badge/fundador-Elvis_Manuel_Domínguez_Silverio-19221D?style=flat-square" />
 </div>
