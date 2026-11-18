@@ -26,19 +26,6 @@ Estudio independiente de ingeniería digital &nbsp;·&nbsp; Software · Sistemas
 </p>
 
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!-- INTRO RÁPIDA -->
-<!-- ════════════════════════════════════════════════════════════════ -->
-
-nombre: "Elvis Manuel Domínguez Silverio"
-rol: "Software Engineer · Full-Stack · Systems & SaaS"
-estudio: "OFICIO CERO, S.R.L. (en constitución)"
-base: "Esperanza, Valverde — RD"
-idiomas: ["español", "alemán"]
-enfoque: ["SaaS", "ERP/CRM/POS", "e-CF DGII", "Linux", "IA & agentes"]
-disponibilidad: "open to collaborate"
-<br/>
-
-<!-- ════════════════════════════════════════════════════════════════ -->
 <!-- SOBRE MÍ -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
