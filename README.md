@@ -269,11 +269,11 @@ text
 
 <div align="center">
 <a href="https://github.com/MrVanguardiaOC">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MrVanguardia&show_icons=true&hide_border=true&title_color=19221D&icon_color=EE6A42&text_color=19221D&bg_color=EEEAE0" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MrVanguardiaOC&show_icons=true&hide_border=true&title_color=19221D&icon_color=EE6A42&text_color=19221D&bg_color=EEEAE0" alt="GitHub Stats" />
 </a>
 &nbsp;
 <a href="https://github.com/MrVanguardiaOC">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVanguardia&layout=compact&hide_border=true&title_color=19221D&text_color=19221D&bg_color=EEEAE0" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrVanguardiaOC&layout=compact&hide_border=true&title_color=19221D&text_color=19221D&bg_color=EEEAE0" alt="Top Languages" />
 </a>
 </div>
 
@@ -281,7 +281,7 @@ text
 
 <div align="center">
 <a href="https://github.com/MrVanguardiaOC">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrVanguardia&hide_border=true&ring=19221D&fire=EE6A42&currStreakLabel=19221D&currStreakNum=19221D&sideLabels=19221D&dates=61685E&sideNums=19221D&bg_color=EEEAE0" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MrVanguardiaOC&hide_border=true&ring=19221D&fire=EE6A42&currStreakLabel=19221D&currStreakNum=19221D&sideLabels=19221D&dates=61685E&sideNums=19221D&bg_color=EEEAE0" alt="GitHub Streak" />
 </a>
 </div>
 
@@ -289,7 +289,7 @@ text
 
 <div align="center">
 <a href="https://github.com/MrVanguardiaOC">
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MrVanguardia&hide_border=true&color=EE6A42&line=19221D&point=19221D&bg_color=EEEAE0&area_color=DBFA75" alt="Activity Graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MrVanguardiaOC&hide_border=true&color=EE6A42&line=19221D&point=19221D&bg_color=EEEAE0&area_color=DBFA75" alt="Activity Graph" />
 </a>
 </div>
 
