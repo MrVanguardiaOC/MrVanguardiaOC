@@ -77,10 +77,12 @@ Reconocimientos: GitHub Developer Program · Google Play Academy Ignite · Ciber
 <tr>
 <td valign="top" width="33%" align="left">
 <strong>Dominio · e-CF</strong><br/>
-<img src="https://img.shields.io/badge/DGII_eCF-E31%E2%80%93E47-1A2620?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=DBFA75" />
-<img src="https://img.shields.io/badge/RSA_SHA256-firma_digital-1A2620?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=EE6A42" />
-<img src="https://img.shields.io/badge/Reportes_606_607_608_609-1A2620?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=DBFA75" />
-<img src="https://img.shields.io/badge/POS-ERP_CRM-1A2620?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=EE6A42" />
+<p align="left">
+  <img src="https://shields.io" alt="DGII eCF E31-E47" />
+  <img src="https://shields.io" alt="RSA SHA256 firma digital" />
+  <img src="https://shields.io" alt="Reportes 606 607 608 609" />
+  <img src="https://shields.io" alt="POS ERP CRM" />
+</p>
 </td>
 <td valign="top" width="33%" align="left">
 <strong>Android · Mobile</strong><br/>
